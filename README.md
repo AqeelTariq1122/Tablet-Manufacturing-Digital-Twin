@@ -1,9 +1,8 @@
-# 💊 Pharmaceutical Tablet Manufacturing Simulation (Digital Twin)
+# 💊 Tablet Manufacturing Simulation (Digital Twin)
 
 > **A 7-day manufacturing digital twin built in AnyLogic to detect bottlenecks, measure throughput, and test capacity improvements in tablet production.**
 
-![Blue Doodle Project Presentation (1)](https://github.com/user-attachments/assets/a0c8a283-c085-4ab6-89c6-5f949a098ab9)
-
+![Blue Doodle Project Presentation (1)](https://github.com/user-attachments/assets/85901e06-fef3-4367-bc20-dc5caaa8f276)
 
 ---
 
